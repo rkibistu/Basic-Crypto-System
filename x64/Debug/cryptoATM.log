@@ -1,0 +1,18 @@
+﻿  Main.cpp
+D:\ATM\Criptografie\vsRandProjects\cryptoATM\Main.cpp(83,119): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\ATM\Criptografie\vsRandProjects\cryptoATM\Main.cpp(130,164): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\ATM\Criptografie\vsRandProjects\cryptoATM\Main.cpp(134,71): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\ATM\Criptografie\vsRandProjects\cryptoATM\Main.cpp(139,111): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\ATM\Criptografie\vsRandProjects\cryptoATM\Main.cpp(142,126): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\ATM\Criptografie\vsRandProjects\cryptoATM\Main.cpp(188,111): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\ATM\Criptografie\vsRandProjects\cryptoATM\Main.cpp(192,169): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\ATM\Criptografie\vsRandProjects\cryptoATM\Main.cpp(196,169): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\ATM\Criptografie\vsRandProjects\cryptoATM\Main.cpp(200,169): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\ATM\Criptografie\vsRandProjects\cryptoATM\Main.cpp(207,71): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\ATM\Criptografie\vsRandProjects\cryptoATM\Main.cpp(210,126): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\ATM\Criptografie\vsRandProjects\cryptoATM\Main.cpp(262,111): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\ATM\Criptografie\vsRandProjects\cryptoATM\Main.cpp(272,151): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\ATM\Criptografie\vsRandProjects\cryptoATM\Main.cpp(276,151): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\ATM\Criptografie\vsRandProjects\cryptoATM\Main.cpp(280,151): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\ATM\Criptografie\vsRandProjects\cryptoATM\Main.cpp(295,158): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  cryptoATM.vcxproj -> D:\ATM\Criptografie\vsRandProjects\cryptoATM\x64\Debug\cryptoATM.exe
